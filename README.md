@@ -6,7 +6,7 @@
 
 ## Description
 
-_A leap year C# console exercise to introduce me to C# testing with MSTest._
+_A leap year C# console exercise to introduce me to C# testing with MSTest and Behavior Driven Development._
 
 ## Setup/Installation Requirements
 
@@ -34,8 +34,9 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 ### Specs
 | Spec | Input | Output |
 | :------------- | :------------- | :------------- |
-| **User can ...** | User Input:”...” | Output: ..." |
-
+| **Multiples of 4 are leap years** | User Input:”2012” | Output: true" |
+| **Multiples of 100 are not leap years** | User Input:”1900” | Output: false" |
+| **Multiples of 400 are leap years** | User Input:”2000” | Output: true" |
 
 ### License
 
