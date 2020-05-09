@@ -34,9 +34,9 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 ### Specs
 | Spec | Input | Output |
 | :------------- | :------------- | :------------- |
-| **Multiples of 4 are leap years** | User Input:”2012” | Output: true" |
-| **Multiples of 100 are not leap years** | User Input:”1900” | Output: false" |
-| **Multiples of 400 are leap years** | User Input:”2000” | Output: true" |
+| **Multiples of 4 are leap years** | User Input:”2012” | Output: "true" |
+| **Multiples of 100 are not leap years** | User Input:”1900” | Output: "false" |
+| **Multiples of 400 are leap years** | User Input:”2000” | Output: "true" |
 
 ### License
 
